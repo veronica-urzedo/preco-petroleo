@@ -1,0 +1,15 @@
+pandas>=1.3.5
+streamlit>=1.12.0
+numpy
+matplotlib
+seaborn
+scikit-learn
+beautifulsoup4==4.12.3
+lxml==4.9.4
+requests
+cython
+ephem
+prophet
+plotly
+yfinance
+
